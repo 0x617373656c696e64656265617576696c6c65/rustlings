@@ -4,6 +4,9 @@
 
 </div>
 
+> [!NOTE]
+> This repository contains my solutions to the [Rustlings](https://github.com/rust-lang/rustlings) exercises.
+
 Greetings and welcome to Rustlings.
 This project contains small exercises to get you used to reading and writing Rust code.
 This includes reading and responding to compiler messages!
